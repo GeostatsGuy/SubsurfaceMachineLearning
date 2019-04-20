@@ -1,3 +1,7 @@
+<p>
+    <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/geostatspy_logo.png?raw=true" width="220" height="240" />
+</p>
+
 # Subsurface Data Analytics and Machine Learning
 
 Short course on data analytics, geostatistics and machine learning for spatial modeling.
